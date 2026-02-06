@@ -8,7 +8,7 @@ def create_dataframe():
     data = {
         "id": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
         "review": [
-            "Great food and ambiance.",
+            "Great food and ambiance.version 2",
             "Terrible service. ",
             "Amazing experience!",
             "Food was cold.",
